@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/CalendarPage",
+    "pages/MainTab",
+    "pages/MinePage",
+    "pages/StatisticsPage",
+    "pages/TasksPage"
+
+  ]
+}
